@@ -2,16 +2,16 @@
 
 ## There are potatoes...
 
-Potatoes shoots each other with laser's gun.
+Potatoes shoot each other with laser's gun.
 Time is depending on movement of each potato, when potato doesn't move time slows down some part.
 
-Each potato has roast level, which raises when laser hits it or when it doesn't move too long. When roast reaches max level potato roast to death. 
+Each potato has roast level, which raises when laser hits it or when it doesn't move too long. When roast reaches max level potato roasts to death. 
 
 Lasers might bounce of the wall or some obstacles.
 
 Game is 2D with top view.
 
-## Synchronization of our potates
+## Synchronization of our potatoes
 
 Every player has own instance of client application that connects with server.
 
