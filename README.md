@@ -1,4 +1,1 @@
 # superhotline_potato
-
-
-Gitarka
